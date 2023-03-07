@@ -1,0 +1,2 @@
+============================================
+NORMAL FORMATTED DEPENDENCIES============================================api group: 'com.google.firebase', name: 'firebase-core', version: '17.2.1'
