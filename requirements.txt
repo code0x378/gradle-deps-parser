@@ -17,3 +17,4 @@ pycodestyle==2.10.0
 pyflakes==3.0.1
 PyYAML==6.0
 virtualenv==20.20.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
